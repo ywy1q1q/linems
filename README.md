@@ -13,28 +13,38 @@
 
 ### :bangbang:部屬在reader上，會有休眠時間，需要被喚醒才能做使用:bangbang: 
 ( :warning: 請先嘗試傳送訊息大約1分鐘後可正常運作)
- 
 
-\
-## 使用方法
 
-### 一、
+
+## 一、使用方法
+
+須先加入Line成為官方機器人好友
+
+### 1、
 直接按下方圖文選單來去做傳送 :round_pushpin: 目前位置資訊，\
 下方圖文選單也可按使用說明，來引導網址至youbike官網，\
 可以在裡面觀看使用方法，及註冊、保險。\
 ![image](https://github.com/ywy1q1q/linems/blob/main/mdinfo/join.PNG?raw=true)
 
-### 二、
+### 2、
 可文字輸入 **'找車'**，即可顯示要求傳送目前位置資訊，點即下方就可傳送訊息。\
 ![image](https://github.com/ywy1q1q/linems/blob/main/mdinfo/find.PNG?raw=true)
 
 
-## 機器人會為您搜尋附近3站。
+## 二、畫面內容介紹
+### 機器人會為您搜尋附近3站。
 內文顯式 站點、地址、車輛數量、距離、可停空位\
 如需導航可點即下方 ** 前往導航 **，會導致Google map來做導航。\
 ![image](https://github.com/ywy1q1q/linems/blob/main/mdinfo/before.PNG?raw=true)
 ### 重新查詢，可以再次搜尋先前傳送的地址區域的站點
 ### 如果地點有更改可以點擊下方，分享當前位置，可以再次重新更改位置查詢。
+
+## 三、資料來源
+運輸資料流通服務 https://tdx.transportdata.tw/ \
+政府資料開放平台 https://data.gov.tw/
+
+## 四、使用小提醒
+休眠時間可能會等比較久，提前傳送會比較好
 
 
 
