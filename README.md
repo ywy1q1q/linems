@@ -7,12 +7,16 @@
 偏好有固定騎的車種可以看此數量，來知道怎麼選擇站點。
 
 ## :green_heart: Line ID: @252twisl
+![image](https://github.com/ywy1q1q/linems/blob/main/mdinfo/QR.png?raw=true)
 
-### 部屬在reader上，會有休眠時間，需要被喚醒才能做使用
+
+### :bangbang:部屬在reader上，會有休眠時間，需要被喚醒才能做使用:bangbang:
  
 
 
-## 使用方法
+## 一、使用方法
+
+
 
 可文字輸入 **'找車'**，即可顯示要求傳送目前位置資訊，\
 機器人會為您搜尋附近3站。
